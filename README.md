@@ -64,7 +64,7 @@
 
 <div align="center">
 
-![](images/7.png)
+![](images/8.png)
 
 Рисунок 8 - Коммиты с комментариями</div>
 
@@ -72,7 +72,7 @@
 
 <div align="center">
 
-![](images/8.png)
+![](images/7.png)
 
 Рисунок 9 - сброс коммита через git reset</div>
 
