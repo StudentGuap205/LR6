@@ -72,7 +72,7 @@
 
 <div align="center">
 
-![](images/7.png)
+![](images/7_fixed.png)
 
 Рисунок 9 - сброс коммита через git reset</div>
 
